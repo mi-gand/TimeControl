@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TimeControl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TimeControl_jar</output-path>
+    <root id="archive" name="TimeControl.jar">
+      <element id="module-output" name="TimeControl" />
+    </root>
+  </artifact>
+</component>
